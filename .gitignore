@@ -1,0 +1,19 @@
+# Build & runtime outputs
+*.exe
+*.log
+build.log
+diag_on
+rule
+__pycache__/
+*.py[cod]
+
+# Local user state & personal shortcut groups
+world-clock/worldclock_config.json
+world-clock/versions/
+dock-folder/Groups/
+dock-folder/_to_delete/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
